@@ -1,0 +1,24 @@
+/* Main container for the RSS import page in the admin dashboard */
+.toplevel_page_dualdynamics-rss-import .wrap {
+    padding: 20px;            /* Provide space around content for better aesthetics */
+    background: #fff;         /* Set background color to white for a clean look */
+}
+
+/* Common styles for input fields and dropdowns */
+.toplevel_page_dualdynamics-rss-import .wrap input,
+.toplevel_page_dualdynamics-rss-import .wrap select {
+    margin: 0 1px;            /* Minimal horizontal margin to avoid squeezing */
+    clear: both;              /* Clear any floats to ensure a clean flow of elements */
+    display: block;           /* Display as block to ensure each input takes a full row */
+    width: 100%;              /* Utilize full available width for responsiveness */
+}
+
+/* Specific styles for input fields */
+.toplevel_page_dualdynamics-rss-import .wrap input {
+    max-width: 350px;         /* Limit the maximum width for a balanced layout */
+}
+
+/* Specific styles for dropdowns (select elements) */
+.toplevel_page_dualdynamics-rss-import .wrap select {
+    max-width: 100px;         /* Limit the maximum width for dropdowns for better layout */
+}
