@@ -7,8 +7,8 @@ Certainly! Below is a `README.md` file for your `dualdynamics` WordPress plugin:
 A  WordPress plugin to seamlessly integrate RSS feeds into WordPress posts. This plugin also introduces a custom widget for displaying the latest 5 posts.
 
 # Screenshoots 
-![Feed Importer](public/images/importer.png)
-![Import login ](public/images/loger.png)
+![Feed Importer](public/images/import.png)
+![Import login ](public/images/logger.png)
 
 
 ## Table of Contents
