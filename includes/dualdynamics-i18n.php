@@ -6,11 +6,11 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://example.com
+ * @link       #
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    dualdynamics
+ * @subpackage dualdynamics/includes
  */
 
 /**
@@ -20,10 +20,11 @@
  * so that it is ready for translation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    dualdynamics
+ * @subpackage dualdynamics/includes
+ * @author     Daniel GgTasker <daniel@ggtasker.co.uk>
  */
+
 class dualdynamics_i18n {
 
 
