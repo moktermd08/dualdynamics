@@ -3,11 +3,11 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       http://example.com
+ * @link       http://dualdynamics.com
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    dualdynamics
+ * @subpackage dualdynamics/includes
  */
 
 /**
@@ -16,10 +16,11 @@
  * This class defines all code necessary to run during the plugin's deactivation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    dualdynamics
+ * @subpackage dualdynamics/includes
+ * @author     [Mokter Hossain] <mokter897@gmail.com>
  */
+
 class dualdynamics_Deactivator {
 
 	/**
