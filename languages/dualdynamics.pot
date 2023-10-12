@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dualdynamics 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-12 12:34+0000\n"
+"PO-Revision-Date: 2023-10-12 12:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Generator: ChatGPT-4\n"
+
+#: path/to/dualdynamics-file.php:123
+msgid "Error: Unable to fetch data."
+msgstr ""
+
+#: path/to/dualdynamics-settings.php:456
+msgid "Settings saved successfully."
+msgstr ""
+
+#: path/to/dualdynamics-admin.php:789
+msgid "View fetch logs"
+msgstr ""
