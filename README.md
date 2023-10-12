@@ -65,5 +65,5 @@ This plugin is licensed under the GPL-2.0+ License. For more details, visit [GPL
 
 **Developer:** Mokter Hossian  
 **GitHub:** [moktermd08](https://github.com/moktermd08)  
-**Plugin URI:** [DualDynamics on GitHub](https://github.com/moktermd08/dueldynamics)  
-**Plugin boiler plate** [Wordpress Plugin Boilerplate]([https://github.com/moktermd08/dueldynamics](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/tree/master))  
+**Plugin URI:** [DualDynamics on GitHub](https://github.com/moktermd08/dualdynamics)  
+**Plugin boiler plate** [Wordpress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/tree/master))  
